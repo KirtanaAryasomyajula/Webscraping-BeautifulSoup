@@ -1,0 +1,33 @@
+CarName,Model_Year,Kilometers_Driven,Fuel_Type,Transmission_Type,Price,Location
+Hyundai Xcent,2014,90.17,Petrol,Manual,3.15," Goregaon, Mumbai"
+Hyundai i20,2012,47.69,Petrol,Manual,1.98," Regency Anantam, Dombivli East"
+Hyundai Elite i20,2015,84.73,Petrol,Manual,4.02," Goregaon, Mumbai"
+Hyundai VENUE,2020,48.03,Petrol,Manual,5.92," Korum Mall, Thane West"
+Hyundai VENUE,2020,40.51,Petrol,Manual,6.36," Regency Anantam, Dombivli East"
+Tata Tiago,2017,76.99,Petrol,Manual,3.54," Kandivali, Mumbai"
+Tata Tiago,2022,38.47,CNG,Manual,6.12," Mulund West, Mumbai 
+"
+Tata PUNCH,2024,6.6,Petrol,Manual,6.1," Mulund West, Mumbai 
+"
+Tata Tiago,2022,35.84,CNG,Manual,5.28," Goregaon, Mumbai"
+Tata ALTROZ,2022,16.86,Diesel,Manual,6.38," Mulund West, Mumbai 
+"
+Honda Jazz,2015,66.91,Petrol,Manual,3.33," Seawood
+"
+Honda City,2018,40.19,Petrol,Manual,5.98," Korum Mall, Thane West"
+Honda City,2017,43.23,Petrol,Manual,6.65," Kandivali, Mumbai"
+Honda Amaze,2021,13.86,Petrol,Manual,5.46," Regency Anantam, Dombivli East"
+Honda BR-V,2018,69.4,Petrol,Manual,6.15," Regency Anantam, Dombivli East"
+Renault Kwid,2019,22.83,CNG,Manual,3.36," Kandivali, Mumbai"
+Renault TRIBER,2021,61.46,Petrol,Auto,4.14," Regency Anantam, Dombivli East"
+Renault Kwid,2021,22.37,Petrol,Manual,3.55," Seawood
+"
+Renault Captur,2018,110.0,Petrol,Manual,4.32," Mulund West, Mumbai 
+"
+Renault Kwid,2017,35.91,Petrol,Auto,2.75," Goregaon, Mumbai"
+Ford Ecosport,2020,67.53,Petrol,Auto,7.64," Goregaon, Mumbai"
+Ford FREESTYLE,2018,88.02,Diesel,Manual,4.5," Regency Anantam, Dombivli East"
+Ford Ecosport,2016,41.69,Petrol,Manual,4.49," Seawood
+"
+Ford Ecosport,2018,74.02,Petrol,Auto,5.95," Korum Mall, Thane West"
+Ford Ecosport,2017,61.57,Petrol,Manual,4.82," Kandivali, Mumbai"
